@@ -1,2 +1,0 @@
-# KiranDemo1
-Firstrepo
